@@ -124,12 +124,12 @@ header 1
 	color: white;
 	text-decoration: none;
 	margin-right: 5px;
-    margin-right: 10px;
+    margin-left: 25px;
 	font-size: 13px;
 	text-transform: uppercase;
 }
 
-.hero2
+.hero2 
 {
 	font-size: 10px;
 	position: absolute;
@@ -142,18 +142,19 @@ h2
 {
 	color: white;
 	text-transform: uppercase;
-	font-size: 35px;
+	font-size: 20px;
 	text-align: center;
-	margin-top: 250px;
-	margin-left: 150;
+	margin-top: 100px;
+	margin-left: 100;
 }
 
 h3
 {
 	color: white;
 	font-size: 20px;
-	margin-top: 50px;
-	margin-left: 30px;
+	text-align: center;
+	margin-top: 40px;
+	margin-left: 80px;
 }
 
 h4
@@ -163,4 +164,40 @@ h4
 	font-size: 35px;
 	margin-top: 250px;
 	margin-left: 150;
+}
+
+.btn4
+{
+	border: 1px solid white;
+	padding: 10px 30px;
+	color: white;
+	text-decoration: none;
+	margin-right: 5px;
+    margin-right: 10px;
+	font-size: 13px;
+	text-transform: uppercase;
+}
+
+.btn-four
+{
+	background-color: darkorange;
+	font-family: "Roboto", sans-serif;
+	margin-left: 60px;
+}
+
+h5
+{
+	color: white;
+	text-transform: uppercase;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+COLOR
+{
+	color: blue;
+	text-transform: uppercase;
+	font-size: 25px;
+	margin-top: 10px;
 }
