@@ -143,7 +143,7 @@ h2
 {
 	color: white;
 	text-transform: uppercase;
-	font-size: 20px;
+	font-size: 30px;
 	text-align: center;
 	margin-top: 100px;
 	margin-left: 100;
@@ -198,6 +198,14 @@ h5
 COLOR
 {
 	color: blue;
+	text-transform: uppercase;
+	font-size: 35px;
+	margin-top: 10px;
+}
+
+COLOR2
+{
+	color: red;
 	text-transform: uppercase;
 	font-size: 25px;
 	margin-top: 10px;
